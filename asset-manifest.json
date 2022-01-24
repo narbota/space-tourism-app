@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/space-tourism-app/static/css/main.517f1d94.css",
+    "main.js": "/space-tourism-app/static/js/main.1d1bbd1d.js",
+    "static/js/787.d3666bc8.chunk.js": "/space-tourism-app/static/js/787.d3666bc8.chunk.js",
+    "index.html": "/space-tourism-app/index.html",
+    "main.517f1d94.css.map": "/space-tourism-app/static/css/main.517f1d94.css.map",
+    "main.1d1bbd1d.js.map": "/space-tourism-app/static/js/main.1d1bbd1d.js.map",
+    "787.d3666bc8.chunk.js.map": "/space-tourism-app/static/js/787.d3666bc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.517f1d94.css",
+    "static/js/main.1d1bbd1d.js"
+  ]
+}
